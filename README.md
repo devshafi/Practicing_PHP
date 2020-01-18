@@ -1,0 +1,1 @@
+### In this lesson we will learn data type in php
