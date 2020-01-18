@@ -1,0 +1,1 @@
+# In this file, we will learn about echo/print in PHP
