@@ -1,0 +1,1 @@
+### In this file we are practicing basic variable in php
